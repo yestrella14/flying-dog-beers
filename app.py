@@ -4,9 +4,9 @@ import dash_html_components as html
 import plotly.graph_objs as go
 
 ########### Define your variables
-beers=['Imperial Stout', 'Double IPA', 'Imperial Porter', 'Sour']
-ibu_values=[14, 78, 55, 15]
-abv_values=[8.4, 9.6, 9.2, 5.2]
+beers=['Imperial Stout', 'Double IPA', 'Imperial Porter', 'Sour', 'Cider']
+ibu_values=[58, 78, 55, 15, 10]
+abv_values=[8.4, 9.6, 9.2, 5.2, 4.5]
 color1='fuchsia'
 color2='royalblue'
 mytitle='Beer Comparison'
